@@ -1,7 +1,6 @@
 import numpy as np
 from PIL import Image
 import matplotlib.pyplot as plt
-from basic_units import cm, inch
 
 def chessboard(rows, cols, start):
     if "0" in start:
